@@ -1,0 +1,35 @@
+body{
+  background-color: #cccccc;
+  font-family: sans-serif;
+}
+
+#Title{
+  background-color: #262626;
+  color: #ffffff;
+  text-align: center;
+  border-radius: 3%;
+}
+#content{
+background-color: #ffffff;
+margin-left: 500px;
+margin-right: 502px;
+margin-top: 30px
+
+}
+#username, #comment{
+  background-color: #ffffff;
+  border-radius: 3%;
+  font-weight:bold;
+}
+#mountain{
+  width: 885px;
+  height: 600px;
+}
+#pizza{
+  width: 885px;
+  height: 600px;
+}
+#date{
+  color:#cccccc;
+  margin-left: 600px;
+}
