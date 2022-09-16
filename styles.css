@@ -9,7 +9,6 @@ body {
 .post {
   display: flex;
   flex-direction: column;
-  gap: 15px;
   background-color: #ffffff;
   width: 600px;
   height: fit-content;
